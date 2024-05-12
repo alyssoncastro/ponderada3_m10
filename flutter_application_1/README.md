@@ -113,15 +113,15 @@ OBS: vale lembrar que foi feito em dois caminhos diretórios, mas pode usar a me
 
 Aqui estão as telas do projeto com flutter respectivamente como fui dito nas instruções como rodar:
 
-![Texto alternativo](/img/Imagem%20do%20WhatsApp%20de%202024-05-16%20à(s)%2006.58.12_54eb74eb.jpg)
+![Texto alternativo](img/img1.jpg)
 
-![Texto alternativo](/img/Imagem%20do%20WhatsApp%20de%202024-05-16%20à(s)%2007.55.42_02bc4f50.jpg)
+![Texto alternativo](img/img2.jpg)
 
-![Texto alternativo](/img/Imagem%20do%20WhatsApp%20de%202024-05-16%20à(s)%2007.57.22_fe4919c1.jpg)
+![Texto alternativo](img/img3.jpg)
 
-![Texto alternativo](/img/Imagem%20do%20WhatsApp%20de%202024-05-16%20à(s)%2007.58.18_fd72b7c4.jpg)
+![Texto alternativo](img/img4.jpg)
 
-![Texto alternativo](/img/Imagem%20do%20WhatsApp%20de%202024-05-16%20à(s)%2007.59.01_19e2630a.jpg)
+![Texto alternativo](img/img5.jpg)
 
 
 ## Vídeo:
